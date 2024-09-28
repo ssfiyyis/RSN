@@ -44,7 +44,7 @@ def main():
 
         if engine.distributed:
             model = torch.nn.parallel.DistributedDataParallel(
-                model, device_ids=[args.local_rank],
+                model, device_ids=[engine.local_rank],
                 broadcast_buffers=False, )
 
         if engine.continue_state_object:

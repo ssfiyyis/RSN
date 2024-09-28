@@ -1,7 +1,14 @@
-ninja
-yacs
-cython
-matplotlib
-tqdm
-coloredlogs
-tensorboardX
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch==2.4.1+cu124
+torchvision==0.19.1+cu124
+ninja==1.11.1.1
+yacs==0.1.8
+Cython==3.0.11
+matplotlib==3.9.2
+tqdm==4.66.5
+coloredlogs==15.0.1
+tensorboardX==2.6.2.2
+numpy==1.26.4
+easydict==1.13
+opencv-python==4.10.0.84
+scipy==1.14.1
