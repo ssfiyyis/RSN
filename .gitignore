@@ -158,3 +158,20 @@ cython_debug/
 # binary data
 *.pth
 *.pkl
+
+# dataset
+dataset/COCO/det_json
+dataset/COCO/det_json/
+dataset/COCO/gt_json
+dataset/COCO/gt_json/
+dataset/COCO/images
+dataset/COCO/images/
+dataset/MPII/det_json
+dataset/MPII/det_json/
+dataset/MPII/gt_json
+dataset/MPII/gt_json/
+dataset/MPII/images
+dataset/MPII/images/
+
+# temporary outputs
+model_logs/
