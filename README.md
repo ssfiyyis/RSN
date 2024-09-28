@@ -1,3 +1,8 @@
+# Latest updates
+
+# The following is the original author's README.md as it is
+---
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-delicate-local-representations-for/keypoint-detection-on-coco)](https://paperswithcode.com/sota/keypoint-detection-on-coco?p=learning-delicate-local-representations-for)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-delicate-local-representations-for/pose-estimation-on-mpii-single-person)](https://paperswithcode.com/sota/pose-estimation-on-mpii-single-person?p=learning-delicate-local-representations-for)
