@@ -175,3 +175,8 @@ dataset/MPII/images/
 
 # temporary outputs
 model_logs/
+exps/4XRSN18.coco/log
+exps/4XRSN18.mpii/log
+exps/Res18.coco/log
+exps/RSN18.coco/log
+exps/RSN18.mpii/log
